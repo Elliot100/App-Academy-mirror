@@ -3,6 +3,7 @@
 .header-logo {
     float: left;
     border-right: #ccc solid 1px;
+    border-left: #ccc solid 1px;
     font-weight: bold;
 }
 
@@ -12,6 +13,7 @@
 
 .header-list {
     float: right;
+    border-right: #ccc solid 1px;
 }
 
 .header-list > li {
